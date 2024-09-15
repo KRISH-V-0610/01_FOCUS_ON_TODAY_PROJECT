@@ -1,14 +1,25 @@
-FOCUS_ON_TODAY_PROJECT (12/08/2024)
+# Focus on Today - A Simple To-Do List App
 
-This project is a simple to-do-list type app which includes a list of tasks which user has to set in the morning and put a tick mark on the task which is done.
+## Description
+Focus on Today is a simple to-do list application that helps users organize their daily tasks. Users can add tasks in the morning and mark them as completed. The app stores data using localStorage for persistence.
 
-This is the link for the deployed project-
-https://focus-on-today-krish.netlify.app/
+## Key Features
+- **Data Storage**: Uses localStorage to save tasks.
+- **Add Tasks**: Click the "+" icon to add new tasks.
+- **Mark Completion**: Tick off tasks when completed.
 
-KEY-FEATURES:
+## Installation
+1. Download the project ZIP folder.
+2. Extract the files.
+3. Open `index.html` in your web browser.
 
-(1) Data is Stored in local storage. 
-(2) Can Add a new task panel by clicking the + icon.
+## Deployed Project
+Access the deployed version here: [Focus on Today App](https://focus-on-today-krish.netlify.app/)
 
-YOU CAN DOWNLOAD ZIP FOLDER FOR THIS PROJECT AND CAN EDIT THE CODE TO MAKE SOME MORE IMPROVEMENTS.
+## Improvements
+Consider adding:
+- Task editing and deletion.
+- Task prioritization and due dates.
+- Responsive design enhancements.
 
+Feel free to explore and customize the code!
